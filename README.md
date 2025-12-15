@@ -29,3 +29,7 @@ In addition to JavaScript, I learned how to create a responsive and user-friendl
 I also learned the importance of loading states and user feedback, such as showing messages while data is being fetched or displaying error messages when something goes wrong. This improved my understanding of usability and user experience design.
 
 Overall, Task-1 helped me understand how frontend applications communicate with external services and display live data. It gave me hands-on experience in API integration, improved my problem-solving skills, and prepared me to work on real-world projects where data is not static. This task built a strong foundation for advanced web development concepts and helped me gain confidence in building dynamic and interactive web applications.
+
+#OUTPUT
+
+<img width="1279" height="767" alt="Image" src="https://github.com/user-attachments/assets/c02e4ed5-5b65-4912-8adc-eec8b4c9e7c3" />
